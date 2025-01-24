@@ -1,6 +1,6 @@
 # wordSmash-chat-analyzer
 A streamlit app to analyze your whatsapp chats
-### **WhatsApp Chat Analyzer**  
+
 Unlock the hidden patterns and stories within your WhatsApp chats with **WhatsApp Chat Analyzer**! 🚀  
 This interactive tool is designed to help you gain meaningful insights from your chat data using **Natural Language Processing (NLP)** and stunning visualizations. Whether you're curious about your messaging habits or want to explore group dynamics, this tool has you covered.  
 
