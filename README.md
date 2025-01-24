@@ -48,7 +48,7 @@ This interactive tool is designed to help you gain meaningful insights from your
 
 #### 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/whatsapp-chat-analyzer.git
+git clone https://github.com/pandeyutsav/WordSmash-ChatAnalyzer.git
 cd whatsapp-chat-analyzer
 ```  
 
