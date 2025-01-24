@@ -79,7 +79,5 @@ Contributions are welcome! If you have ideas for improvements or want to fix iss
 
 ### **✨ Contact**  
 Have questions or suggestions? Feel free to reach out!  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🌐 GitHub: [Your GitHub Profile](https://github.com/your-username)  
+🌐 GitHub: [GitHub Profile](https://github.com/pandeyutsav)  
 
-Let the data tell its story — one chat at a time! 😊
